@@ -1,8 +1,10 @@
 # BwE NOR Validator v1.31
 ![BwE](https://i.imgur.com/GsR281J.jpeg)
 
-It has been a long 11 year wait but the source code is finally available! Enjoy!
-    
+After 11 years the source code for the original and greatest PS3 NOR Validator has been released!
+
+This is version 1.31 and was the last version made.    
+
     BwE NOR Validator - HTML Output Edition.
     
     Created/Started by BwE on the 14th November 2012 (Because I was too lazy to constantly check everything).
